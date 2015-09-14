@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+TweakClass: me.guichaguri.bytecodetofile.BTFTweaker
+TweakOrder: 99999
+TweakName: BytecodeToFile
+TweakAuthor: Guichaguri
